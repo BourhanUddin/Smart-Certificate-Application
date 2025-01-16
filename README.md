@@ -1,4 +1,4 @@
-##Smart Certificate Application
+## Smart Certificate Application
 A smart certificate application is a digital certificate system that helps student to get their 
 certificate from anywhere. It eliminates the need for a centralized authority to issue and verify 
 certificates, making the process more efficient and secure. With a smart certificate application, 
